@@ -6,4 +6,4 @@ RUN apk add stress-ng
 
 CMD ["bash", "/script.sh"]
 
-ENTRYPOINT [".", "-c", "sleep 500"]
+ENTRYPOINT [ "sleep 500"]
