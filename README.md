@@ -1,2 +1,1 @@
-# customerapp
 # backend-app
