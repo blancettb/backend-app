@@ -1,4 +1,5 @@
 #!bin/bash
 
-cd /tmp 
+cd /tmp
+
 stress-ng -c 16
