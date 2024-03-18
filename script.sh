@@ -2,6 +2,6 @@
 
 cd /tmp
 
-stress-ng -c 3 
+stress-ng -c 12 
 
 #tail -f /dev/null
